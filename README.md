@@ -16,6 +16,8 @@ Ritu Tak - rt2665
 
 Files:
 
+Part-2_report.pdf: Discusses the objective, approach and findings of the project
+
 TMDB_scraping_export_csv.ipynb: extracts movie feature data from TMDb 
 
 
