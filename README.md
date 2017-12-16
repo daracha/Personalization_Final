@@ -11,6 +11,7 @@ Chaitanya Dara - cd2965,
 Divya Hindupur - dh2863,
 Ritu Tak - rt2665
 
+(Bindi Patel - member in part 1 of the project - was not involved in part 2 of the project)
 
 
 Files:
