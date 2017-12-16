@@ -53,3 +53,15 @@ Hybrid_Recommendation_Model_Using_Bayesian_Networks.ipynb: Bayesian Networks imp
 
 Probabilistic Matrix Factorization-Movie Ratings.ipynb: runs Probabilistic Matrix Factorization - extension of our BN model.
 
+
+
+
+
+
+References:
+A. Gunawardana, C. Meek, A unified approach to building hybrid recommender systems, in: RecSys’09: Proceedings of the third ACM Conference on
+Recommender Systems, 2009, pp. 117–124.
+P. Melville, R. Mooney, R. Nagarajan, Content-boosted collaborative filtering, in: ACM SIGIR 2001 Workshop on Recommender Systems, 2001.
+G. Linden, B. Smith, J. York, Amazon.com recommendations: item-to-item collaborative filtering, IEEE Internet Computing 17 (6) (2003) 734–749
+K. Miyahara, M.J. Pazzani, Collaborative filtering with the simple Bayesian classifier, in: Pacific Rim International Conference on Artificial Intelligence,
+2000, pp. 679–689.
